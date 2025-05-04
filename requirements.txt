@@ -1,0 +1,6 @@
+python==3.11.12
+numpy==1.26.4
+opencv-python==4.11.0.86
+scikit-learn==1.6.1
+matplotlib==3.5.3
+pythreejs==2.4.2
