@@ -4,3 +4,5 @@ opencv-python==4.11.0.86
 scikit-learn==1.6.1
 matplotlib==3.5.3
 pythreejs==2.4.2
+mljar-supervised==1.1.17
+nuscenes-devkit==1.1.11
